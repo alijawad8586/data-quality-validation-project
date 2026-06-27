@@ -1,0 +1,12 @@
+Stage,Check,Value,Details
+After Cleaning,Total Rows,8,Number of rows in dataset
+After Cleaning,Total Columns,4,Number of columns in dataset
+After Cleaning,Missing customer_id,0,Missing values in customer_id column
+After Cleaning,Missing age,0,Missing values in age column
+After Cleaning,Missing income,0,Missing values in income column
+After Cleaning,Missing purchases,0,Missing values in purchases column
+After Cleaning,Duplicate Rows,0,Exact repeated rows
+After Cleaning,Invalid Age Count,0,Age values less than 0
+After Cleaning,Invalid Purchases Count,0,Non-numeric purchase values like ABC
+After Cleaning,Income Outliers Count,2,IQR bounds: 52375.0 to 65375.0
+After Cleaning,Total Issues,2,Total detected data quality issues
